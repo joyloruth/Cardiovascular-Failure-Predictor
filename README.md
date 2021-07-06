@@ -1,10 +1,10 @@
-# Cardiovascular-Failure-Indicator
+# Cardiovascular Failure Indicator
 
 ### Code and Resources
 MySQL Version: 1.2.1
 <br>Python 3</br>
 
-# 0.0 OBJECTIVE
+# 0.0 Objective
 This project predicts the probability of heart failure by analyzing behavioral factors and their correlating to heart failure. 
 
 # 1.0 Exploratory Data Analysis
