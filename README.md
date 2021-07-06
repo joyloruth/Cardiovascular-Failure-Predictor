@@ -3,7 +3,7 @@
 ### Code and Resources
 <li>MySQL Version: 1.2.1</li>
 <li>Python 3</li>
-<li>Dataset from Kaggle: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data</li>
+<li>Dataset: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data</li>
 
 # 0.0 Objective
 This project predicts the probability of heart failure by analyzing behavioral factors and their correlating to heart failure. 
